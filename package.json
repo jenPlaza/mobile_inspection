@@ -10,5 +10,14 @@
   "dependencies": {
     "bootstrap": "^4.4.1"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenPlaza/mobile_inspection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jenPlaza/mobile_inspection/issues"
+  },
+  "homepage": "https://github.com/jenPlaza/mobile_inspection#readme",
   "description": ""
 }
