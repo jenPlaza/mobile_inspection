@@ -1,0 +1,9 @@
+INSTRUCTIONS:
+
+Make the HTML file look as similar as possible as the attached screenshot saved in the "SCREENSHOTS" folder. Image: Design-Mockup. Do not need to finish it, but will pay attention how how much was done during the given time.
+
+- It's main measurements are for iPads, but extra points if mobile responsive
+- The left sidebar has to be "scrollable"
+- Basic stylesheet, images and font are included in the Zip file
+- You can use Bootstrap, but pure and basic HTML5 / CSS3 would be great
+- The map on the right of the mockup is a placeholder

@@ -1,0 +1,24 @@
+/* css addition */
+.up{
+   margin: -10px 0 -10px 0;
+}
+.incWidth{
+   padding:  1px 10px 1px 10px ;
+}
+.resposiveMap{
+object-fit: cover; width:100%; 
+}
+main>div>section:first-of-type:active{
+  border: 3px solid blue;
+}
+@media(min-width:992px){
+   .rowScroll{
+       height:605px;
+       border: 1px solid green;
+       overflow:hidden;
+       }
+       .columnScroll{
+           height:600px;
+           overflow:scroll;
+           }
+}
